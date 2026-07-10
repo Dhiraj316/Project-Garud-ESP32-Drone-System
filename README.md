@@ -33,7 +33,7 @@ To maintain a clean and collaborative environment for the engineering team, this
 * `📁 Communication_System/`
   * Contains the Communication with TX and RX or source code for the Android mobile application.
 * `📁 Hardware_Design/`
-  * Contains the EasyEDA schematics, PCB layout files, and Gerber ZIPs for the custom Banana-1.4 board.
+  * Contains the EasyEDA schematics, PCB layout files, and Gerber ZIPs for the custom PCB board.
 * `📁 Docs/`
   * Contains circuit wiring diagrams, component datasheets, project roadmaps, and presentation materials.
 
